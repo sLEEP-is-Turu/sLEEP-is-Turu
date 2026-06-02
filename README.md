@@ -1,39 +1,49 @@
-## Hi there 👋
+# Hi, I'm Alief 👋
+
 🎓 Biotechnology Graduate
 
-🔬 Research Interests
+I am interested in bioinformatics, genomics, transcriptomics, microbiology, and antimicrobial resistance research.
 
-Bioinformatics
-Genomics
-Transcriptomics
-Antimicrobial Resistance
-Molecular
+---
 
-📚 Currently Learning
+## 🔬 Research Interests
 
-RNA and DNA-seq Analysis
-Sequencing Data Analysis
-Molecular Data Analysis
-Whole Genome Sequencing (WGS)
-Computational Biology
+- Bioinformatics
+- Genomics
+- Transcriptomics
+- Whole Genome Sequencing (WGS)
+- Microbiology
+- Antimicrobial Resistance
 
-🧪 Research Experience
-Undergraduate thesis focused on Whole Genome Sequencing (WGS) analysis of antibiotic-resistant Escherichia coli isolated from poultry slaughterhouse effluent.
+---
 
-📂 This GitHub contains academic projects, laboratory reports, scientific summaries, and bioinformatics learning materials.
+## 📚 Currently Learning
 
-Always learning and exploring the intersection of biology and data.
-<!--
-**sLEEP-is-Turu/sLEEP-is-Turu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- RNA and DNA-seq Analysis
+- Molecular Data Analysis
+- Scientific Programming
+- Computational Biology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Research Experience
+
+**Undergraduate Thesis**
+
+*Whole Genome Sequencing (WGS) Analysis of Antibiotic-Resistant Escherichia coli from Poultry Slaughterhouse Effluent*
+
+---
+
+## 📂 Portfolio
+
+This GitHub contains:
+
+- 📄 Laboratory Reports
+- 📖 Scientific Paper Summaries
+- 🧬 Bioinformatics Projects
+- 🔬 Research Documentation
+- 💻 Learning Materials
+
+---
+
+> "Always learning and exploring the intersection between biology and data."
